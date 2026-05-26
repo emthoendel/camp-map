@@ -1,0 +1,1 @@
+can you generate a list for me of campgrounds in south dakota that are free or $20 or less a night in csv format containing the following fields: name, state, town, cost, reservations, service, features, website, lat, lng
