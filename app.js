@@ -7,12 +7,15 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let allCampgrounds = [];
 let markers = [];
 
-fetch('campgrounds.json')
-  .then(res => res.json())
-  .then(data => {
-    allCampgrounds = data;
-    renderCampgrounds(data);
-  });
+Promise.all([
+  fetch('data/nebraska.json').then(r => r.json()),
+  fetch('data/iowa.json').then(r => r.json()),
+  fetch('data/southdakota.json').then(r => r.json()),
+  fetch('data/kansas.json').then(r => r.json())
+]).then(states => {
+  const all = states.flat();
+  renderCampgrounds(all);
+});
 
 function renderCampgrounds(data) {
 
