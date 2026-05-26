@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sage Creek Campground (Badlands National Park),South Dakota,Interior,0,No - First Come First Served,Primitive,Bison viewing; Badlands scenery; Stargazing; Wildlife,http://nps.gov/badl,43.8553,-101.9890",
+    "name": "name,state,town,cost,reservations,service,features,website,lat,lng",
     "state": "",
     "town": "",
     "cost": "",
@@ -12,7 +12,7 @@
     "lng": ""
   },
   {
-    "name": "Palisades State Park,South Dakota,Garretson,15,Yes,Primitive (tent-only); Electric available,Quartzite cliffs; Hiking; Rock climbing; Creek views,https://gfp.sd.gov/parks/detail/palisades-state-park/,43.7156,-96.5147",
+    "name": "Preparation Canyon State Park,Iowa,Pisgah,0,No - Walk-in,Primitive hike-in,Loess Hills hiking; remote camping; backpacking,Iowa DNR,41.8497,-95.9298",
     "state": "",
     "town": "",
     "cost": "",
@@ -24,7 +24,7 @@
     "lng": ""
   },
   {
-    "name": "Lake Louise Recreation Area,South Dakota,Miller,15,Yes,Primitive; Electric available,Lake swimming; Fishing; Boating; Family camping,https://gfp.sd.gov/parks/detail/lake-louise-recreation-area/,44.5150,-98.9920",
+    "name": "Yellow River State Forest - Backpack Sites,Iowa,Harpers Ferry,0,No - Walk-in,Primitive backpack camping,Trout streams; hiking; forest solitude,Iowa DNR,43.4106,-91.2799",
     "state": "",
     "town": "",
     "cost": "",
@@ -36,7 +36,7 @@
     "lng": ""
   },
   {
-    "name": "Lake Poinsett Recreation Area,South Dakota,Arlington,15,Yes,Primitive; Electric available,Large lake; Fishing; Swimming; Boating,https://gfp.sd.gov/parks/detail/lake-poinsett-recreation-area/,44.9480,-97.2145",
+    "name": "Shimek State Forest Dispersed Camping,Iowa,Farmington,0,No - Walk-in,Primitive dispersed camping,Forest camping; wildlife; quiet sites,Iowa DNR,40.6486,-91.7402",
     "state": "",
     "town": "",
     "cost": "",
@@ -48,7 +48,7 @@
     "lng": ""
   },
   {
-    "name": "Chief White Crane Recreation Area,South Dakota,Yankton,15,Yes,Primitive; Electric available,Missouri River access; Fishing; Boating; Hiking,https://gfp.sd.gov/parks/detail/chief-white-crane-recreation-area/,42.8789,-97.3925",
+    "name": "Stephens State Forest - Lucas Unit,Iowa,Lucas,0,No - Walk-in,Primitive dispersed camping,Forest hiking; wildlife viewing; remote camping,Iowa DNR,41.0303,-93.3305",
     "state": "",
     "town": "",
     "cost": "",
@@ -60,7 +60,7 @@
     "lng": ""
   },
   {
-    "name": "Pickerel Lake Recreation Area,South Dakota,Roslyn,15,Yes,Primitive; Electric available,Clear lake; Fishing; Swimming; Kayaking,https://gfp.sd.gov/parks/detail/pickerel-lake-recreation-area/,45.5450,-97.1840",
+    "name": "Whiterock Conservancy,Iowa,Coon Rapids,0,Yes,Primitive hike-in / dispersed,Prairie hiking; river access; biking trails,https://www.whiterockconservancy.org/,41.9016,-94.7181",
     "state": "",
     "town": "",
     "cost": "",
@@ -72,7 +72,7 @@
     "lng": ""
   },
   {
-    "name": "Roy Lake State Park,South Dakota,Lake City,16,Yes,Primitive; Electric available,Forest lake; Fishing; Beaches; Wildlife,https://gfp.sd.gov/parks/detail/roy-lake-state-park/,45.7167,-97.0000",
+    "name": "Kent Park (Johnson County Conservation),Iowa,Tiffin,15,Yes,Primitive; Electric available,Fishing lake; hiking trails; family camping,https://www.johnsoncountyiowa.gov/conservation/kent-park,41.6856,-91.6681",
     "state": "",
     "town": "",
     "cost": "",
@@ -84,7 +84,7 @@
     "lng": ""
   },
   {
-    "name": "Lake Herman State Park,South Dakota,Madison,15,Yes,Primitive camping,Small lake; Fishing; Hiking; Quiet camping,https://gfp.sd.gov/parks/detail/lake-herman-state-park/,44.0178,-97.0612",
+    "name": "Lake Keomah State Park,Iowa,Oskaloosa,12,Yes,Primitive camping,Small lake; fishing; swimming; quiet camping,Iowa DNR,41.2508,-92.5629",
     "state": "",
     "town": "",
     "cost": "",
@@ -96,7 +96,7 @@
     "lng": ""
   },
   {
-    "name": "Newton Hills State Park,South Dakota,Canton,15,Yes,Primitive; Electric available,Hardwood forest; Hiking; Wildlife; Quiet sites,https://gfp.sd.gov/parks/detail/newton-hills-state-park/,43.2786,-96.5856",
+    "name": "Beeds Lake State Park,Iowa,Hampton,12,Yes,Primitive; Electric available,Hiking; historic dam; kayaking; fishing,Iowa DNR,42.7391,-93.2086",
     "state": "",
     "town": "",
     "cost": "",
@@ -108,7 +108,7 @@
     "lng": ""
   },
   {
-    "name": "Fort Sisseton Historic State Park,South Dakota,Lake City,15,Yes,Primitive camping,Historic fort; Prairie views; Events; Hiking,https://gfp.sd.gov/parks/detail/fort-sisseton-historic-state-park/,45.6169,-97.4850",
+    "name": "Bellevue State Park,Iowa,Bellevue,12,Yes,Primitive; Electric available,Mississippi River bluffs; hiking; scenic views,Iowa DNR,42.2581,-90.4280",
     "state": "",
     "town": "",
     "cost": "",
@@ -120,7 +120,7 @@
     "lng": ""
   },
   {
-    "name": "Big Sioux Recreation Area,South Dakota,Brandon,15,Yes,Primitive camping,Big Sioux River; Fishing; Hiking; Birding,https://gfp.sd.gov/parks/detail/big-sioux-recreation-area/,43.5928,-96.5703",
+    "name": "Fort Defiance State Park,Iowa,Estherville,15,No - Walk-in only,Primitive camping,River confluence; fishing; wildlife,Iowa DNR,43.3872,-94.8444",
     "state": "",
     "town": "",
     "cost": "",
@@ -132,7 +132,7 @@
     "lng": ""
   },
   {
-    "name": "Farm Island Recreation Area,South Dakota,Pierre,15,Yes,Primitive camping,Missouri River; Fishing; Kayaking; Wildlife,https://gfp.sd.gov/parks/detail/farm-island-recreation-area/,44.3616,-100.3487",
+    "name": "Backbone State Park,Iowa,Dundee,15,Yes,Non-electric camping,Cliffs; trout fishing; hiking; kayaking,Iowa DNR,42.6599,-91.5313",
     "state": "",
     "town": "",
     "cost": "",
@@ -144,7 +144,7 @@
     "lng": ""
   },
   {
-    "name": "Lake Thompson Recreation Area,South Dakota,Lake Preston,15,Yes,Primitive camping,Prairie lake; Fishing; Kayaking; Birding,https://gfp.sd.gov/parks/detail/lake-thompson-recreation-area/,44.3722,-97.3883",
+    "name": "Ledges State Park,Iowa,Madrid,17,Yes,Non-electric camping,Canyon hiking; creek crossings; cliffs,Iowa DNR,41.9165,-93.8213",
     "state": "",
     "town": "",
     "cost": "",
@@ -156,7 +156,7 @@
     "lng": ""
   },
   {
-    "name": "Sheps Canyon Recreation Area,South Dakota,Hot Springs,20,Yes,Primitive; Electric available,Lake access; Fishing; Boating; Swimming,https://gfp.sd.gov/parks/detail/sheps-canyon-recreation-area/,43.4225,-103.4232",
+    "name": "Maquoketa Caves State Park,Iowa,Maquoketa,17,Yes,Non-electric camping,Caves; hiking; forest trails; geology,Iowa DNR,42.0833,-90.6932",
     "state": "",
     "town": "",
     "cost": "",
@@ -168,7 +168,7 @@
     "lng": ""
   },
   {
-    "name": "Angostura State Recreation Area,South Dakota,Hot Springs,20,Yes,Primitive; Electric available,Large reservoir; Warm water; Boating; Fishing,https://gfp.sd.gov/parks/detail/angostura-recreation-area/,43.3450,-103.4980",
+    "name": "Dolliver Memorial State Park,Iowa,Lehigh,15,Yes,Electric available,Sandstone cliffs; river valley hiking,Iowa DNR,42.3562,-94.0441",
     "state": "",
     "town": "",
     "cost": "",
@@ -180,7 +180,7 @@
     "lng": ""
   },
   {
-    "name": "Buffalo Gap National Grassland Dispersed Camping,South Dakota,Wall,0,No,Dispersed primitive,Open prairie; Stargazing; Remote camping,http://fs.usda.gov,43.9920,-102.2410",
+    "name": "George Wyth State Park,Iowa,Waterloo,15,Yes,Primitive; Electric available,Lakes; biking trails; fishing; swimming,Iowa DNR,42.5245,-92.3586",
     "state": "",
     "town": "",
     "cost": "",
@@ -192,7 +192,55 @@
     "lng": ""
   },
   {
-    "name": "Black Hills National Forest Dispersed Camping,South Dakota,Hill City,0,No,Dispersed primitive,Forest camping; Hiking; Remote sites; Lakes,http://fs.usda.gov,43.9322,-103.5752",
+    "name": "Gull Point State Park,Iowa,Spirit Lake,15,Yes,Primitive; Electric available,Okoboji lake access; swimming; boating,Iowa DNR,43.4258,-95.1006",
+    "state": "",
+    "town": "",
+    "cost": "",
+    "reservations": "",
+    "service": "",
+    "features": "",
+    "website": "",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "name": "Honey Creek State Park,Iowa,Moravia,15,Yes,Primitive; Electric available,Rathbun Lake; fishing; boating,Iowa DNR,40.9101,-92.8758",
+    "state": "",
+    "town": "",
+    "cost": "",
+    "reservations": "",
+    "service": "",
+    "features": "",
+    "website": "",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "name": "Lacey-Keosauqua State Park,Iowa,Keosauqua,15,Yes,Primitive camping,Bluffs; river views; hiking; wildlife,Iowa DNR,40.7306,-91.9704",
+    "state": "",
+    "town": "",
+    "cost": "",
+    "reservations": "",
+    "service": "",
+    "features": "",
+    "website": "",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "name": "Pilot Knob State Park,Iowa,Forest City,15,Yes,Primitive camping,Observation tower; forest hiking; views,Iowa DNR,43.2703,-93.6394",
+    "state": "",
+    "town": "",
+    "cost": "",
+    "reservations": "",
+    "service": "",
+    "features": "",
+    "website": "",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "name": "Lake Wapello State Park,Iowa,Drakesville,15,Yes,Primitive; Electric available,Swimming; boating; forest lake camping,Iowa DNR,40.7950,-92.4660",
     "state": "",
     "town": "",
     "cost": "",
