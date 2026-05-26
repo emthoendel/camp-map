@@ -21,14 +21,14 @@ This project is a web-based camping map that helps users find **free or low-cost
 
 ## 🧱 System Architecture
 
-The system is built as a simple data pipeline:
-Google Sheets (master database)
-↓
-Google Apps Script (data exporter)
-↓
-GitHub Repository (/data/*.json)
-↓
-GitHub Pages frontend (interactive map)
+The system is built as a simple data pipeline:  
+Google Sheets (master database)  
+↓  
+Google Apps Script (data exporter)  
+↓  
+GitHub Repository (/data/*.json)  
+↓  
+GitHub Pages frontend (interactive map)  
 
 
 ---
@@ -54,18 +54,18 @@ name, state, town, cost, reservations, service, features, website, lat, lng
 ---
 
 ## 📁 GitHub Repository Structure
-camping-map/
-├── data/
-│   ├── nebraska.json
-│   ├── iowa.json
-│   ├── southdakota.json
-│   ├── kansas.json
-├── index.html
-├── app.js
-├── style.css
-├── README.md
-└── docs/
-    └── camping-map-project-snapshot.md
+camping-map/  
+├── data/  
+│   ├── nebraska.json  
+│   ├── iowa.json  
+│   ├── southdakota.json  
+│   ├── kansas.json  
+├── index.html  
+├── app.js  
+├── style.css  
+├── README.md  
+└── docs/  
+    └── camping-map-project-snapshot.md  
 
 ---
 
