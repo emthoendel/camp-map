@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Smith Falls State Park",
+    "state": "Nebraska",
+    "town": "Valentine",
+    "cost": 15,
+    "reservations": "Limited",
+    "service": "Primitive",
+    "features": "Waterfall, kayaking, hiking",
+    "website": "https://outdoornebraska.gov/location/smith-falls/",
+    "lat": 42.8739,
+    "lng": -100.5494
+  },
+  {
+    "name": "Preparation Canyon State Park",
+    "state": "Iowa",
+    "town": "Pisgah",
+    "cost": 0,
+    "reservations": "No",
+    "service": "Primitive hike-in",
+    "features": "Loess Hills, backpacking",
+    "website": "https://www.iowadnr.gov/places-go/state-parks/all-parks/preparation-canyon-state-park",
+    "lat": 41.9008,
+    "lng": -95.9255
+  },
+  {
+    "name": "Sage Creek Campground",
+    "state": "South Dakota",
+    "town": "Interior",
+    "cost": 0,
+    "reservations": "First Come First Serve",
+    "service": "Primitive",
+    "features": "Badlands, bison, stargazing",
+    "website": "https://www.nps.gov/badl/planyourvisit/campgrounds.htm",
+    "lat": 43.8553,
+    "lng": -101.9890
+  }
+]
