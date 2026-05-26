@@ -1,17 +1,5 @@
 [
   {
-    "name": "name,state,town,cost,reservations,service,features,website,lat,lng",
-    "state": "",
-    "town": "",
-    "cost": "",
-    "reservations": "",
-    "service": "",
-    "features": "",
-    "website": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
     "name": "Clinton State Park,Kansas,Lawrence,15,Yes,Primitive; Electric available,Lake Clinton; boating; hiking; mountain biking,https://ksoutdoors.gov/State-Parks/Locations/Clinton-State-Park,38.9342,-95.3728",
     "state": "",
     "town": "",
