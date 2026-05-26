@@ -1,17 +1,5 @@
 [
   {
-    "name": "name,state,town,cost,reservations,service,features,website,lat,lng",
-    "state": "",
-    "town": "",
-    "cost": "",
-    "reservations": "",
-    "service": "",
-    "features": "",
-    "website": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
     "name": "Sage Creek Campground (Badlands National Park),South Dakota,Interior,0,No - First Come First Served,Primitive,Bison viewing; Badlands scenery; Stargazing; Wildlife,http://nps.gov/badl,43.8553,-101.9890",
     "state": "",
     "town": "",
