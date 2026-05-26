@@ -10,7 +10,7 @@ let markers = [];
 Promise.all([
   fetch('data/nebraska.json').then(r => r.json()),
   fetch('data/iowa.json').then(r => r.json()),
-  fetch('data/southdakota.json').then(r => r.json()),
+  fetch('data/south dakota.json').then(r => r.json()),
   fetch('data/kansas.json').then(r => r.json())
 ]).then(states => {
   const all = states.flat();
