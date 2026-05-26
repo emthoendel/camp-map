@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <title>Budget Camping Map</title>
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet/dist/leaflet.css"
+  />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <div id="sidebar">
+    <h1>Budget Camping Map</h1>
+
+    <input type="text" id="search" placeholder="Search..." />
+
+    <div class="filters">
+      <label>
+        <input type="checkbox" id="freeOnly" />
+        Free Camping
+      </label>
+
+      <label>
+        <input type="checkbox" id="under20" />
+        Under $20
+      </label>
+    </div>
+
+    <div id="campground-list"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
