@@ -1,17 +1,5 @@
 [
   {
-    "name": "name,state,town,cost,reservations,service,features,website,lat,lng",
-    "state": "",
-    "town": "",
-    "cost": "",
-    "reservations": "",
-    "service": "",
-    "features": "",
-    "website": "",
-    "lat": "",
-    "lng": ""
-  },
-  {
     "name": "Preparation Canyon State Park,Iowa,Pisgah,0,No - Walk-in,Primitive hike-in,Loess Hills hiking; remote camping; backpacking,Iowa DNR,41.8497,-95.9298",
     "state": "",
     "town": "",
